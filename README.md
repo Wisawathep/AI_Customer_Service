@@ -62,21 +62,20 @@ of AI system architecture and the practical challenges of deploying LLM-based ap
 
 ## 📜 Result
 <div align="center">
-  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/HireSense/homepage_final1.png" height="600"  />
+  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/Pet%20Shop%20AICS/home1.png" height="600"  />
   <img width="12" />
-  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/HireSense/homepage_final2.png" height="600"  />
+  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/Pet%20Shop%20AICS/home2.png" height="600"  />
   <img width="12" />
-  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/HireSense/homepage_final4.png" height="600"  />
+  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/Pet%20Shop%20AICS/home3.png" height="600"  />
   <img width="12" />  
-  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/HireSense/workspace_final1.png" height="600"  />
+  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/Pet%20Shop%20AICS/chat1.png.png" height="600"  />
   <img width="12" />  
-  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/HireSense/upload_final.png" height="600"  />
+  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/Pet%20Shop%20AICS/chat2.png" height="600"  />
   <img width="12" />  
-  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/HireSense/added_resumes_final.png" height="600"  />
+  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/Pet%20Shop%20AICS/chat3.png" height="600"  />
   <img width="12" />  
-  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/HireSense/search_final.png" height="600"  />
+  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/Pet%20Shop%20AICS/chat4.png" height="600"  />
   <img width="12" />  
-  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/HireSense/result_final.png" height="600"  />
 </div>
 
 ## 📜 Test Case
