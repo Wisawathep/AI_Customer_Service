@@ -60,6 +60,25 @@ of AI system architecture and the practical challenges of deploying LLM-based ap
   <img width="12" />
 </div>
 
+# Document Loader
+Loads raw knowledge documents from text files and converts them into a unified document format for further processing in the RAG pipeline.
+# Text Cleaner
+Preprocesses raw text by removing unnecessary whitespace, formatting inconsistencies, and unwanted characters to improve document quality before chunking.
+# Chunker
+Splits documents into smaller semantic chunks while preserving their structure and metadata, enabling more accurate retrieval during question answering.
+# Embedder
+Generates dense vector embeddings for each text chunk using the BAAI/bge-m3 embedding model, allowing semantic similarity search instead of keyword matching.
+# ChromaDB
+Stores vector embeddings and metadata for all knowledge chunks, enabling efficient semantic retrieval of the most relevant information based on user queries.
+# Input Guardrail
+Validates user input before processing by detecting invalid, malicious, or out-of-scope requests to protect the system from prompt injection and unsafe inputs.
+# Prompt Builder
+Constructs the final prompt by combining the system instructions, retrieved knowledge context, and the user's question before sending it to the language model.
+# Output Guardrail
+Validates the generated response to ensure it is consistent with the retrieved context and reduces the risk of hallucinated or unsupported information.
+# PostgreSQL
+Stores conversation history, including user messages and AI responses, to support multi-turn conversations, session management, and future analytics.
+
 ## 📜 Result
 <div align="center">
   <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/Pet%20Shop%20AICS/home1.png" height="600"  />
