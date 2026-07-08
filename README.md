@@ -1,6 +1,5 @@
 # AI Customer Service Chatbot | Pet Shop Chatbot
-HireSense is an AI-powered resume analysis web application that uses a Retrieval-Augmented Generation (RAG) pipeline to semantically search and summarize resumes.
-The system enables HR users to upload PDF resumes, retrieve relevant candidates based on job requirements, and generate concise, LLM-based summaries to support faster and more accurate screening decisions.
+AI Customer Support with RAG is an intelligent customer service chatbot designed to answer customer inquiries using company-specific knowledge. The system leverages Retrieval-Augmented Generation (RAG) to retrieve relevant information from a knowledge base before generating responses, reducing reliance on the language model's internal knowledge and improving response accuracy
 
 ## ⭐ Motivation
 This project was developed to explore how Retrieval-Augmented Generation (RAG) can improve the reliability of AI-powered customer support systems. 
@@ -60,23 +59,23 @@ of AI system architecture and the practical challenges of deploying LLM-based ap
   <img width="12" />
 </div>
 
-# Document Loader
+### Document Loader
 Loads raw knowledge documents from text files and converts them into a unified document format for further processing in the RAG pipeline.
-# Text Cleaner
+### Text Cleaner
 Preprocesses raw text by removing unnecessary whitespace, formatting inconsistencies, and unwanted characters to improve document quality before chunking.
-# Chunker
+### Chunker
 Splits documents into smaller semantic chunks while preserving their structure and metadata, enabling more accurate retrieval during question answering.
-# Embedder
+### Embedder
 Generates dense vector embeddings for each text chunk using the BAAI/bge-m3 embedding model, allowing semantic similarity search instead of keyword matching.
-# ChromaDB
+### ChromaDB
 Stores vector embeddings and metadata for all knowledge chunks, enabling efficient semantic retrieval of the most relevant information based on user queries.
-# Input Guardrail
+### Input Guardrail
 Validates user input before processing by detecting invalid, malicious, or out-of-scope requests to protect the system from prompt injection and unsafe inputs.
-# Prompt Builder
+### Prompt Builder
 Constructs the final prompt by combining the system instructions, retrieved knowledge context, and the user's question before sending it to the language model.
-# Output Guardrail
+### Output Guardrail
 Validates the generated response to ensure it is consistent with the retrieved context and reduces the risk of hallucinated or unsupported information.
-# PostgreSQL
+### PostgreSQL
 Stores conversation history, including user messages and AI responses, to support multi-turn conversations, session management, and future analytics.
 
 ## 📜 Result
