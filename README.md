@@ -56,72 +56,9 @@ of AI system architecture and the practical challenges of deploying LLM-based ap
 
 ## ⚙️ Architecture (RAG Pipeline)
 <div align="center">
-  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/HireSense/HireSense%20Architecture%201.png" height="600"  />
-  <img width="12" />
-  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/HireSense/HireSense%20Architecture%202.png" height="600"  />
+  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/Pet%20Shop%20AICS/Architecture.png" height="600"  />
   <img width="12" />
 </div>
-
-## 🧱 File Directory Structure
-```
-HireSense/
-├── frontend/                          # Next.js Frontend (UI Layer)
-│   ├── src/app/
-│   │   ├── page.js                    # Landing page
-│   │   ├── workspace/
-│   │   │   └── page.js                # Main workspace UI (upload, search, analyze)
-│   │   └── layout.js                
-│   ├── public/                        # Static assets
-│   └── package.json
-│
-├── backend/                           # FastAPI Backend (API & AI Layer)
-│   ├── app/
-│   │   ├── main.py                    # FastAPI entry point
-│   │   │
-│   │   ├── api/                       # API routes
-│   │   │   ├── health.py              # Health check endpoint
-│   │   │   ├── resumes.py             # Resume upload / list / delete APIs
-│   │   │   ├── search.py              # Resume search based on job requirements (RAG-based)
-│   │   │   └── analyze.py             # Resume analysis (RAG-based)
-│   │   │
-│   │   ├── core/                      # Core configuration
-│   │   │   ├── config.py              # Environment & settings
-│   │   │   └── logging.py             # Logging configuration
-│   │   │
-│   │   ├── schemas/                   # Pydantic schemas
-│   │   │   ├── resume.py              # Resume-related schemas
-│   │   │   ├── search.py              # Search schemas
-│   │   │   └── analyze.py             # Analysis request/response schemas
-│   │   │
-│   │   ├── services/                  # Business & AI logic
-│   │   │   ├── parsing/
-│   │   │   │   └── pdf_parser.py      # PDF resume parser
-│   │   │   │
-│   │   │   ├── chunking/
-│   │   │   │   └── chunker.py         # Resume text chunking
-│   │   │   │
-│   │   │   ├── embedding/
-│   │   │   │   └── embeddings.py      # Transform Chunked Text --> vector
-│   │   │   │
-│   │   │   ├── vector_store/
-│   │   │   │   └── faiss_store.py     # FAISS vector database
-│   │   │   │
-│   │   │   ├── llm/
-│   │   │   │   ├── provider.py        # LLM provider (Gemini)
-│   │   │   │   └── .env               # LLM API keys
-│   │   │   │
-│   │   │   └── rag/
-│   │   │       └── rag_chain.py       # RAG pipeline & agent
-│   │   │
-│   │   └── utils/                     # Utility helpers
-│   │       └── file_handler.py        # File save / delete helpers
-│   │
-│   ├── requirements.txt
-│   └── .env                           # Backend environment variables
-│
-├── .gitignore
-└── README.md
-```
 
 ## 📜 Result
 <div align="center">
@@ -140,6 +77,12 @@ HireSense/
   <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/HireSense/search_final.png" height="600"  />
   <img width="12" />  
   <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/HireSense/result_final.png" height="600"  />
+</div>
+
+## 📜 Test Case
+<div align="center">
+  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/Pet%20Shop%20AICS/test%20case%20ex.png" height="600"  />
+  <img width="12" />
 </div>
 
 ***
