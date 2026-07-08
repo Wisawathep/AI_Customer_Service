@@ -1,0 +1,192 @@
+[
+    {
+        "id": "e83d733c-5f10-4a73-b897-f839b186c11d",
+        "content": "หัวข้อ : ช่องทางการชำระเงิน\nบริษัทรองรับช่องทางการชำระเงินดังต่อไปนี้\n1. โอนผ่านบัญชีธนาคาร\n2. พร้อมเพย์ (PromptPay)\n3. QR Code Payment\n4. บัตรเครดิต\n5. บัตรเดบิต\n6. Mobile Banking\n7. Internet Banking\n8. เก็บเงินปลายทาง (เฉพาะสินค้าที่ร่วมรายการ)\nช่องทางการชำระเงินอาจแตกต่างกันตามประเภทสินค้า\nและโปรโมชั่นในแต่ละช่วงเวลา",
+        "source": "..\\knowledge\\payment.txt",
+        "category": "payment",
+        "metadata": {
+            "filename": "payment.txt",
+            "title": "ช่องทางการชำระเงิน"
+        }
+    },
+    {
+        "id": "bcb8accf-b34e-44a6-a34b-429d3bf4f48a",
+        "content": "หัวข้อ : เวลาที่ระบบตรวจสอบการชำระเงิน\nระบบตรวจสอบการชำระเงินอัตโนมัติ\nโดยปกติใช้เวลา 5-15 นาที\nหากเป็นช่วงโปรโมชั่นหรือมีคำสั่งซื้อจำนวนมาก\nอาจใช้เวลา 30-60 นาที",
+        "source": "..\\knowledge\\payment.txt",
+        "category": "payment",
+        "metadata": {
+            "filename": "payment.txt",
+            "title": "เวลาที่ระบบตรวจสอบการชำระเงิน"
+        }
+    },
+    {
+        "id": "7102835d-f46d-4c6e-9e93-5448384bd2ba",
+        "content": "หัวข้อ : หากชำระเงินแล้วแต่สถานะยังไม่อัปเดต\nลูกค้าควรรอประมาณ 15-30 นาที\nหากยังไม่อัปเดต กรุณาเตรียมข้อมูล\n- หมายเลขคำสั่งซื้อ\n- วันที่ชำระเงิน\n- เวลาในการชำระเงิน\n- จำนวนเงิน\n- หลักฐานการชำระเงิน\nเจ้าหน้าที่จะตรวจสอบให้",
+        "source": "..\\knowledge\\payment.txt",
+        "category": "payment",
+        "metadata": {
+            "filename": "payment.txt",
+            "title": "หากชำระเงินแล้วแต่สถานะยังไม่อัปเดต"
+        }
+    },
+    {
+        "id": "8ad3344a-2d1d-4cf0-9ef9-8c1ba6ffc3dc",
+        "content": "หัวข้อ : การแจ้งชำระเงิน\nหากระบบไม่ตรวจพบการชำระเงิน ลูกค้าสามารถแจ้งชำระเงินได้ โดยส่งข้อมูลดังนี้\n- หมายเลขคำสั่งซื้อ\n- สลิปการโอน\n- วันและเวลา\n- จำนวนเงิน",
+        "source": "..\\knowledge\\payment.txt",
+        "category": "payment",
+        "metadata": {
+            "filename": "payment.txt",
+            "title": "การแจ้งชำระเงิน"
+        }
+    },
+    {
+        "id": "9644b87b-a449-4729-8cea-9a4b2ab5cb8f",
+        "content": "หัวข้อ : การชำระเงินไม่สำเร็จ\nสาเหตุที่อาจเกิดขึ้น\n- อินเทอร์เน็ตขัดข้อง\n- ธนาคารปลายทางขัดข้อง\n- วงเงินบัตรไม่เพียงพอ\n- ระบบธนาคารปิดปรับปรุง\n- QR Code หมดอายุ\n- PromptPay หมดเวลา\nแนวทางแก้ไข\n- ลองชำระใหม่\n- เปลี่ยนช่องทางการชำระเงิน\n- ติดต่อธนาคาร\n- ติดต่อเจ้าหน้าที่",
+        "source": "..\\knowledge\\payment.txt",
+        "category": "payment",
+        "metadata": {
+            "filename": "payment.txt",
+            "title": "การชำระเงินไม่สำเร็จ"
+        }
+    },
+    {
+        "id": "23d450a0-86c1-4a9e-b3b2-350f4e9e45e5",
+        "content": "หัวข้อ : QR Code หมดอายุ\nQR Code มีอายุจำกัด\nหากหมดอายุ ลูกค้าสามารถ\n- สร้าง QR ใหม่\n- สั่งซื้อใหม่",
+        "source": "..\\knowledge\\payment.txt",
+        "category": "payment",
+        "metadata": {
+            "filename": "payment.txt",
+            "title": "QR Code หมดอายุ"
+        }
+    },
+    {
+        "id": "fdc3b6f6-8a44-4d1f-a97c-5b4b20d9c6fb",
+        "content": "หัวข้อ : PromptPay หมดอายุ\nหาก PromptPay หมดอายุ ไม่สามารถใช้รายการเดิมได้ กรุณาสร้างรายการใหม่",
+        "source": "..\\knowledge\\payment.txt",
+        "category": "payment",
+        "metadata": {
+            "filename": "payment.txt",
+            "title": "PromptPay หมดอายุ"
+        }
+    },
+    {
+        "id": "94882f8b-8b98-4c00-9611-1dc229bf5e12",
+        "content": "หัวข้อ : การชำระเงินซ้ำ\nหากลูกค้าชำระเงินซ้ำ กรุณาติดต่อเจ้าหน้าที่ทันที พร้อมส่ง\n- สลิปทั้งสองรายการ\n- หมายเลขคำสั่งซื้อ\nบริษัทจะตรวจสอบและดำเนินการคืนเงินส่วนที่เกิน",
+        "source": "..\\knowledge\\payment.txt",
+        "category": "payment",
+        "metadata": {
+            "filename": "payment.txt",
+            "title": "การชำระเงินซ้ำ"
+        }
+    },
+    {
+        "id": "b5667df3-0580-4ed6-87e5-ea167cfc9a0f",
+        "content": "หัวข้อ : จำนวนเงินไม่ตรง\nหากชำระเงินไม่ครบ ระบบอาจไม่ยืนยันคำสั่งซื้อ\nกรุณาติดต่อเจ้าหน้าที่ หากชำระเงินเกิน\nบริษัทจะตรวจสอบ และคืนเงินส่วนต่าง",
+        "source": "..\\knowledge\\payment.txt",
+        "category": "payment",
+        "metadata": {
+            "filename": "payment.txt",
+            "title": "จำนวนเงินไม่ตรง"
+        }
+    },
+    {
+        "id": "55d4fc8e-cda4-4c30-9dd1-6a03b5330022",
+        "content": "หัวข้อ : การคืนเงิน\nเมื่ออนุมัติการคืนเงินแล้ว\n- PromptPay 1-3 วันทำการ\n- โอนธนาคาร 3-5 วันทำการ\n- บัตรเครดิต 7-14 วันทำการ\nระยะเวลาอาจแตกต่างกันตามธนาคาร",
+        "source": "..\\knowledge\\payment.txt",
+        "category": "payment",
+        "metadata": {
+            "filename": "payment.txt",
+            "title": "การคืนเงิน"
+        }
+    },
+    {
+        "id": "4f53adc4-f2e5-43b1-950c-d08f1a884976",
+        "content": "หัวข้อ : ค่าธรรมเนียม\nบริษัทไม่มีค่าธรรมเนียมเพิ่มเติม แต่ธนาคารหรือผู้ให้บริการบัตร\nอาจมีค่าธรรมเนียมตามเงื่อนไขของแต่ละสถาบัน",
+        "source": "..\\knowledge\\payment.txt",
+        "category": "payment",
+        "metadata": {
+            "filename": "payment.txt",
+            "title": "ค่าธรรมเนียม"
+        }
+    },
+    {
+        "id": "7b177ead-e6a7-414b-bffc-6120eb4a568f",
+        "content": "หัวข้อ : การยกเลิกคำสั่งซื้อก่อนชำระเงิน\nหากยังไม่ได้ชำระเงิน สามารถยกเลิกได้ทันที ไม่มีค่าใช้จ่าย",
+        "source": "..\\knowledge\\payment.txt",
+        "category": "payment",
+        "metadata": {
+            "filename": "payment.txt",
+            "title": "การยกเลิกคำสั่งซื้อก่อนชำระเงิน"
+        }
+    },
+    {
+        "id": "c88affcd-98fa-4739-b1e6-d0b717f06773",
+        "content": "หัวข้อ : การยกเลิกหลังชำระเงิน\nหากชำระเงินแล้ว การยกเลิกจะเป็นไปตามนโยบายการคืนสินค้า\nและการคืนเงินของบริษัท",
+        "source": "..\\knowledge\\payment.txt",
+        "category": "payment",
+        "metadata": {
+            "filename": "payment.txt",
+            "title": "การยกเลิกหลังชำระเงิน"
+        }
+    },
+    {
+        "id": "f5f1e267-14c1-408f-a409-c6d567ecd7e9",
+        "content": "หัวข้อ : เก็บเงินปลายทาง (COD)\nสินค้าบางรายการรองรับเก็บเงินปลายทาง\nเงื่อนไข\n- ขึ้นอยู่กับพื้นที่จัดส่ง\n- ขึ้นอยู่กับบริษัทขนส่ง\n- สินค้าบางประเภทไม่รองรับ",
+        "source": "..\\knowledge\\payment.txt",
+        "category": "payment",
+        "metadata": {
+            "filename": "payment.txt",
+            "title": "เก็บเงินปลายทาง (COD)"
+        }
+    },
+    {
+        "id": "966361be-9682-425b-924d-d9337fbf9f84",
+        "content": "หัวข้อ : การผ่อนชำระ\nสินค้าบางรายการรองรับการผ่อนชำระผ่านบัตรเครดิต\nจำนวนเดือนขึ้นอยู่กับธนาคาร และโปรโมชั่น",
+        "source": "..\\knowledge\\payment.txt",
+        "category": "payment",
+        "metadata": {
+            "filename": "payment.txt",
+            "title": "การผ่อนชำระ"
+        }
+    },
+    {
+        "id": "401ac666-14a7-401d-a170-571813e5f29e",
+        "content": "หัวข้อ : ใบเสร็จรับเงิน\nหลังชำระเงินสำเร็จลูกค้าจะได้รับใบเสร็จอิเล็กทรอนิกส์\nหากไม่ได้รับกรุณาติดต่อเจ้าหน้าที่",
+        "source": "..\\knowledge\\payment.txt",
+        "category": "payment",
+        "metadata": {
+            "filename": "payment.txt",
+            "title": "ใบเสร็จรับเงิน"
+        }
+    },
+    {
+        "id": "4c44410a-5e6a-45f9-9f4f-680b482237de",
+        "content": "หัวข้อ : ใบกำกับภาษี\nลูกค้าสามารถขอใบกำกับภาษีเต็มรูป โดยแจ้ง\n- ชื่อบริษัท\n- เลขประจำตัวผู้เสียภาษี\n- ที่อยู่\nภายใน 7 วันหลังการสั่งซื้อ",
+        "source": "..\\knowledge\\payment.txt",
+        "category": "payment",
+        "metadata": {
+            "filename": "payment.txt",
+            "title": "ใบกำกับภาษี"
+        }
+    },
+    {
+        "id": "573477f5-3bd0-4323-a693-e8b3007c018e",
+        "content": "หัวข้อ : การตรวจสอบการชำระเงิน\nAI ไม่สามารถตรวจสอบยอดเงินจริงได้\nหากลูกค้าต้องการตรวจสอบ AI ต้องขอ\n- หมายเลขคำสั่งซื้อ\nก่อนส่งต่อให้เจ้าหน้าที่",
+        "source": "..\\knowledge\\payment.txt",
+        "category": "payment",
+        "metadata": {
+            "filename": "payment.txt",
+            "title": "การตรวจสอบการชำระเงิน"
+        }
+    },
+    {
+        "id": "f31347cd-85ea-4a12-aa34-69ad3006e98e",
+        "content": "หัวข้อ : คำที่มีความหมายเดียวกัน\nลูกค้าอาจใช้คำต่อไปนี้\nจ่ายเงิน\nชำระเงิน\nโอนเงิน\nโอน\nจ่าย\nตัดบัตร\nสแกนจ่าย\nPromptPay\nพร้อมเพย์\nQR\nQR Code\nสลิป\nใบโอน\nหลักฐาน\nPayment\nPay\nTransfer\nAI ให้ถือว่าเป็นคำเกี่ยวกับการชำระเงินทั้งหมด",
+        "source": "..\\knowledge\\payment.txt",
+        "category": "payment",
+        "metadata": {
+            "filename": "payment.txt",
+            "title": "คำที่มีความหมายเดียวกัน"
+        }
+    }
+]

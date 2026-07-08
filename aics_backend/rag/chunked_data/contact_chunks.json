@@ -1,0 +1,11 @@
+[
+    {
+        "id": "0d27cb23-94e0-4f3f-a72f-0355a3afc5cf",
+        "content": "หัวข้อ : ช่องทางติดต่อ\n\nLive Chat\nเว็บไซต์\n\nEmail\nsupport@petshop.com\n\nฝ่ายขาย\nsales@petshop.com\n\nฝ่ายบัญชี\nfinance@petshop.com\n\nโทรศัพท์\n02-123-4567\n\nFacebook\nPet Shop\n\nLine Official\n@petshop\n\nWebsite\nwww.petshop.com",
+        "source": "..\\knowledge\\contact.txt",
+        "category": "contact",
+        "metadata": {
+            "filename": "contact.txt"
+        }
+    }
+]

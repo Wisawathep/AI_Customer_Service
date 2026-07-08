@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+groq
+python-dotenv
+chromadb
+sentence-transformers
+torch
+transformers
+psycopg2-binary
+pandas
+numpy
+pydantic
+python-multipart
