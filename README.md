@@ -86,7 +86,7 @@ Stores conversation history, including user messages and AI responses, to suppor
   <img width="12" />
   <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/Pet%20Shop%20AICS/home3.png" height="600"  />
   <img width="12" />  
-  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/Pet%20Shop%20AICS/chat1.png.png" height="600"  />
+  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/Pet%20Shop%20AICS/chat1.png" height="600"  />
   <img width="12" />  
   <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/Pet%20Shop%20AICS/chat2.png" height="600"  />
   <img width="12" />  
