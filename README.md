@@ -28,17 +28,17 @@ Python | Javascript | Vue.js | Uvicorn | FastAPI | FastAPI | LLama (Groq) | Post
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/960px-Vue.js_Logo_2.svg.png?_=20170919082558" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/tomchristie/uvicorn/main/docs/uvicorn.png" height="40" alt="uvicorn logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="40" alt="langchain logo"  />
+  <img src="https://www.ingenia.com/assets/images/tools/17.png" height="40" alt="langchain logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Google_Gemini_icon_2025.svg/960px-Google_Gemini_icon_2025.svg.png" height="40" alt="gemini logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" height="40" alt="gemini logo"  />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" height="40" alt="huggingface logo"  />
+  <img src="https://www.trychroma.com/img/favicon.ico" height="40" alt="huggingface logo"  />
   <img width="12" />
   <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/pydantic-srs7pxjs9skodrjb64x86f.png/pydantic-ae96ag6mv67bf6hz5726v8.png?_a=DATAg1AAZAA0" height="40" alt="pydantic logo"  />
   <img width="12" />
